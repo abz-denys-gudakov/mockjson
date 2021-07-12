@@ -1,5 +1,5 @@
 {
-  "Tokens": {
+  "Token": {
     "description": "string",
     "external_url": "string",
     "image": "string",
