@@ -1,8 +1,8 @@
 {
   "Tokens": {
     "description": "string",
-    "external_url": "url",
-    "image": "url",
+    "external_url": "string",
+    "image": "string",
     "name": "string",
     "attributes": [
       {
