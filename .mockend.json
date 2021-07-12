@@ -4,11 +4,5 @@
     "external_url": "string",
     "image": "string",
     "name": "string",
-    "attributes": [
-      {
-        "trait_type": "string",
-        "value": "int"
-      }
-    ]
   }
 }
